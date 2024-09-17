@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Sakib </h1>
-<h3 align="center">A passionate Software Quality Assurance (QA) engineer from Bangladesh, I am currently working at Bevy Commerce Inc </h3>
+<h3 align="center">A passionate Software Quality Assurance (QA) engineer from Bangladesh, I am currently working at <a href="https://www.bevycommerce.com/">Bevy Commerce Inc</a> </h3>
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/sakib-sarkar/" target="_blank">
