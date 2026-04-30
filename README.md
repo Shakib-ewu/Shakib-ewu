@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **imam.ewu@gmail.com**
 
-- 😎 Connect with me on [Sakib Sarkar](https://www.linkedin.com/in/sakib-sarkar/)
+- 😎 Connect with me on LinkedIn [Sakib Sarkar](https://www.linkedin.com/in/sakib-sarkar/)
 
 - ⚡ Fun fact **We think software testing is fun, but it stinksss**
 
